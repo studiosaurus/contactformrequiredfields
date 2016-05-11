@@ -1,8 +1,6 @@
 # Contact Form Required Fields plugin for Craft CMS
 
-Adds required fields to the Contact Form Plugin
-
-![Screenshot](resources/screenshots/plugin_logo.png)
+Adds required fields to Pixel and Tonic’s Contact Form Plugin (https://github.com/pixelandtonic/ContactForm)
 
 ## Installation
 
